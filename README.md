@@ -1,2 +1,2 @@
 # Data-Analytics
-This is my Data Analytics Course Learning. Here I will upload all my learnings day wise
+"🚀 Unfolding My Data Analytics Journey: Capturing Daily Insights, One Lesson at a Time!"
